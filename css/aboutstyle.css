@@ -1,0 +1,45 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+header{
+	width: 100%;
+	float: left;
+}
+.about{
+		
+	background-color: #FFFFFF;
+
+}
+.logo2 {
+	font-family: 'Dancing Script', cursive;
+	color: #505050;
+	margin-top: 30%;
+}
+.menu2{
+	padding: 100px 0px;
+}
+.menu2 span{
+	padding:0px 40px;
+	color: #8DB0BF;
+}
+.menu2 ul{
+	list-style: none;
+}
+.menu ul li {
+    display: inline-block;
+    
+}
+.menu2 ul li a{
+	text-decoration: none;
+	color: #8DB0BF;
+}
+.brd{
+	float: left;
+	width: 100%;
+}
+.mainunder {
+    border: 2px solid #E4E4E4;
+    width: 100%;
+    display: block;
+}
